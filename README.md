@@ -13,5 +13,5 @@
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, Python, Java, Visual Fox Pro, Visual Basic],
   tools: [React, Redux, Node, Styled-Components, Jest, express, MongoDb, sequelize, SQL],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+ 
   
