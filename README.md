@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Miguel Avalle!</h1>
 
-[![Linkedin: miguelavalle](https://img.shields.io/badge/-miguelavalle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/miguel-adrian-avalle)](www.linkedin.com/in/miguel-adrian-avalle)
-
-
+[![Linkedin: miguel-adrian-avalle](https://img.shields.io/badge/-MiguelAdrianAvalle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/miguel-adrian-avalle)](www.linkedin.com/in/miguel-adrian-avalle)
 
 [![Gmail Badge](https://img.shields.io/badge/-MiguelAvalle-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@avallemiguel)](mailto:avallemiguel@hotmail.com)
 
