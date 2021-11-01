@@ -8,7 +8,7 @@
 
 
  A little more about me...  
- siempre  con ganas de aprender, me gusta trabajar en equipo, desarrollar lo que se pida aunque eso signifique investigar y esfuerzo extra, mi satisfacción  se encuentra en un trabajo bien realizado y funcional. Amo aprender cosas nuevas y las relaciones humanas son muy importantes parta mí.
+ siempre  con ganas de aprender, me gusta trabajar en equipo, desarrollar lo que se pida aunque eso signifique investigar y esfuerzo extra, mi satisfacción  se encuentra en un trabajo bien realizado y funcional. Amo aprender cosas nuevas y las relaciones humanas son muy importantes para mí.
  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Miguegithub78&count_private=true&theme=tokyonight&showicons=true)]()
