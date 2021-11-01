@@ -2,12 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Miguel Avalle!</h1>
 
-[![Linkedin: miguel-adrian-avalle](https://img.shields.io/badge/-MiguelAdrianAvalle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/miguel-adrian-avalle)](www.linkedin.com/in/miguel-adrian-avalle)
+
 
 [![Gmail Badge](https://img.shields.io/badge/-MiguelAvalle-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@avallemiguel)](mailto:avallemiguel@hotmail.com)
 
 
  A little more about me...  
+ siempre  con ganas de aprender, me gusta trabajar en equipo, desarrollar lo que se pida aunque eso signifique investigar y esfuerzo extra, mi satisfacción  se encuentra en un trabajo bien realizado y funcional. Amo aprender cosas nuevas y las relaciones humanas son muy importantes parta mí.
  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Miguegithub78&count_private=true&theme=tokyonight&showicons=true)]()
