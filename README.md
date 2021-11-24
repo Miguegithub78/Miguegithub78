@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Miguel Avalle!</h1>
+<h1 align="center">Hi 👋, I'm Miguel Avalle!</h1>  
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 [![Gmail Badge](https://img.shields.io/badge/-MiguelAvalle-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@avallemiguel)](mailto:avallemiguel@hotmail.com)
 
